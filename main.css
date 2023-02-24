@@ -1,0 +1,28 @@
+body {
+    background-color: #c3d8d6;
+    font-family: Georgia, Garamond, serif;
+}
+
+section {
+    font-size: 12pt;
+}
+
+header, footer {
+    background-color: #d5e3e2;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #9c676b
+}
+
+nav > ul > li {
+    list-style-type: none;
+    display: inline;
+    padding: 40px
+}
+
+ol > li {
+    list-style-type: upper-roman;
+    list-style-position: inside
+}
